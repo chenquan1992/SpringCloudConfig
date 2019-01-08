@@ -1,5 +1,5 @@
 
 server:
-  port: 8766
+  port: 8767
 
 foo: foo version 1    #自定义变量111
