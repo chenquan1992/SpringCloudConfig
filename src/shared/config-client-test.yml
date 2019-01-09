@@ -3,7 +3,7 @@
 server:
   port: 8763
 
-foo: foo version 1    #自定义变量111
+foo: 8763测试    #自定义变量111
 
 
 
